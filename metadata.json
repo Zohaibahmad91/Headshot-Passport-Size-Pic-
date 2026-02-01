@@ -1,0 +1,5 @@
+{
+  "name": "ProShot AI - Professional Headshot & Passport Maker",
+  "description": "A high-end application to transform any photo into professional corporate headshots or compliant passport-sized pictures using Gemini AI. Features include background enhancement, professional attire overlays, and image cleaning.",
+  "requestFramePermissions": []
+}
